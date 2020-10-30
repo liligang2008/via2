@@ -1,0 +1,18 @@
+{
+  "contents": [{
+    "fileref": "ModelContentFile0",
+    "name": "default"
+  }],
+  "lastDate": "1603182133445",
+  "owner": "vtbaadmin",
+  "properties": {
+    "_RESOURCE_Type": "drm",
+    "drd.dimension": "",
+    "drd.key": "",
+    "drd.measure": "",
+    "drd.timestamp": "",
+    "drd.type": "resource.wos",
+    "modelStatus": "update",
+    "name": "NewModel2"
+  }
+}
