@@ -1,0 +1,5 @@
+{
+  "configuration.xml": "<configuration>\n  <!-- You can copy the following element and create more properties.\n                        <property>\n                            <name>dfs.namenode.rpc-address<\/name>\n                            <value>localhost:9000<\/value>\n                            <description>No description<\/description>\n                         <\/property>\n                         -->\n<\/configuration>",
+  "fs.defaultFS": "file:///d:/test",
+  "fs.wkdir": "/"
+}
